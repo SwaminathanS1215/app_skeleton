@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import {
     IonPage,
     IonContent,
-    // IonHeader,
-    // IonTitle,
-    // IonToolbar,
     IonButton,
     IonCol,
     IonRow,
